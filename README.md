@@ -1,1 +1,1 @@
-# typescript_megoldas
+# typescript_megoldas_draganTibor
